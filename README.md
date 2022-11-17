@@ -1,7 +1,8 @@
 # Study Guide 
 
-````
 ## User Story
+
+````
 As a coding bootcamp student,
 I want a remote pre-work study guide, 
 so I can keep & review all my work. 
